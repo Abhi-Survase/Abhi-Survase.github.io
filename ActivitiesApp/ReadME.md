@@ -8,5 +8,6 @@
 
 * Features planned for future release:
    * Negative number inputs
+   * Dark Mode
    * History tab to view previous calculations
    * Possibility of adding new activity tabs (FlashCards / Listening Sums)
